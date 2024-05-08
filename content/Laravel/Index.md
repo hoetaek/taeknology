@@ -1,11 +1,10 @@
 ---
 longform:
   format: scenes
-  title: 알고리즘
+  title: Laravel
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - 알고리즘 종류들
+  scenes: []
   sceneTemplate: templates/quartz.md
   ignoredFiles: []
 ---
