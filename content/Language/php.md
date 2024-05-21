@@ -1,8 +1,6 @@
 ---
-tags:
-  - entry
+tags: []
 ---
-[[array]]
 # string
 - string 안에 변수 값을 집어넣는 방법
 

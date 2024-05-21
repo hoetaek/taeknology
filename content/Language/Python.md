@@ -1,6 +1,5 @@
 ---
-tags:
-  - entry
+tags: []
 ---
 [[poetry]]
 [[pytest]]
