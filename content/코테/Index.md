@@ -6,8 +6,10 @@ longform:
   sceneFolder: /
   scenes:
     - 알고리즘 종류들
-    - 알고리즘 종류들
-    - 재귀 함수
+    - 시간 복잡도 계산하는 법
+    - 재귀 함수 문제들
+    - 스택 문제들
   sceneTemplate: templates/quartz.md
-  ignoredFiles: []
+  ignoredFiles:
+    - manuscript
 ---
