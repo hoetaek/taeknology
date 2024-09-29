@@ -366,4 +366,4 @@ shutil.rmtree(matplotlib.get_cachedir())
 ```
 한 후에 파일 삭제
 
-[[FrameworkDjango#gunicorn]]
+[[FwDjango#gunicorn]]
