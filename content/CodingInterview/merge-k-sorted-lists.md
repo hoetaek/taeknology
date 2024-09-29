@@ -86,4 +86,4 @@ class Solution:
 ```
 
 ## 팁
-[[Dummy Node 사용법]]
+![[Dummy Node 사용법]]
