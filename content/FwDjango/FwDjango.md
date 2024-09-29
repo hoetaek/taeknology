@@ -1,3 +1,6 @@
+---
+title: Django
+---
 # gunicorn
 - gunicorn 프로세스 끄는 방법
 ```sh

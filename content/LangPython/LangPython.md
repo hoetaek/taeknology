@@ -1,6 +1,6 @@
 ---
-tags: 
 title: python
+tags:
 ---
 ## 입력이 끝날 때까지 값을 받아오는 방법
 ```python

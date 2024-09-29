@@ -1,5 +1,6 @@
 ---
-tags: []
+title: PHP
+tags:
 ---
 # string
 - string 안에 변수 값을 집어넣는 방법
