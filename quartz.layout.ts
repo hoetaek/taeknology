@@ -75,5 +75,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(customExplorer),
   ],
-  right: [],
+  right: [Component.RecentNotes()],
 }
