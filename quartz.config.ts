@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Nanum Pen Script",
-        body: "Source Sans Pro",
+        header: "Nanum Gothic Coding",
+        body: "Nanum Gothic Coding",
         code: "IBM Plex Mono",
       },
       colors: {
