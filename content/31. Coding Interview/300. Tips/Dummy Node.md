@@ -1,4 +1,3 @@
-
 ```
 dummy = ListNode()
 curr = dummy

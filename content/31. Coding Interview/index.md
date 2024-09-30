@@ -1,8 +1,4 @@
----
-title: 시간 복잡도 계산하는 법
-draft: false
-tags:
----
+# 시간 복잡도 계산하는 법
 Practical Time Complexity Limits
 
 1.	Constant Time - O(1):

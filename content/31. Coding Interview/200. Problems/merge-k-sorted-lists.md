@@ -84,6 +84,3 @@ class Solution:
 
         return dummy.next
 ```
-
-## 팁
-![[Dummy Node 사용법]]
